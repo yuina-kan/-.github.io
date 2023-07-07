@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <script type="text/javascript" src="test.js"></script>
+    <link rel="stylesheet" href="test.css">
+</head>
+<header>
+
+</header>
+
+<main>
+</main>
+
+<body>
+    <footer class="footer" id="footer">
+        <div class="footer_logo">
+            <p>HYGGE</p>
+            <img src="c:\Users\1602426\Pictures\484c57eb-6b55-490d-ba94-d8f335341a27.jpg" width="50px"
+                height="50px" >
+        </div>
+        <div class="content">
+            <div class="a">
+                <li class="footer-sitemap-col-itema">Home</li>
+                <li class="footer-sitemap-col-itema">News</li>
+                <li class="footer-sitemap-col-itema">Menu</li>
+                <li class="footer-sitemap-col-itema">Founder</li>
+                <li class="footer-sitemap-col-itema">Sponser</li>
+            </div>
+            <div class="b">
+                <li class="footer-sitemap-col-itemb">アレルギー製品</li>
+                <li class="footer-sitemap-col-itemb">おすすめBEST3</li>
+            </div>
+            <div class="c">
+                <li class="footer-sitemap-col-itemc">店舗情報</li>
+                <li class="footer-sitemap-col-itemc">北海道　根室</li>
+                <li class="footer-sitemap-col-itemc">大阪　坂界</li>
+            </div>
+            <div class="footer-sitemap">
+                <li class="footer-sitemap-col-item">会社概要</li>
+                <li class="footer-sitemap-col-item">静岡県湖西市吉見5550</li>
+                
+            </div>
+        </div>
+    </footer>
+</body>
